@@ -1,0 +1,31 @@
+{
+  "id": "./",
+  "name": "Droogweer voor de was",
+  "short_name": "Droogweer",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "lang": "nl",
+  "background_color": "#edf4ed",
+  "theme_color": "#17483c",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
